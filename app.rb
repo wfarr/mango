@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'mongomapper'
+require 'mongo_mapper'
 require 'haml'
 require 'yaml'
 require 'RedCloth'
